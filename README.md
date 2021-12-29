@@ -19,7 +19,6 @@ Member of astronomical amateur team called Caronte, 3D enthusiast, interest by m
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahndev" alt="Jahn C.A."/> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahndev&label=Profile%20views&color=0e75b6&style=flat" alt="jahndev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahndev" alt="jahndev" /></a> </p>
 
