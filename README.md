@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahn Arellano</h1>
 <h3 align="center">Hey, I'm a Software engineer, Passionate about technology and innovation, I enjoy programming and learning of new software tools. </h3>
-<p align=left>
+<p align="left">
 - 🔭 I’m currently working on ...
 Software engineer at Estee Lauder Company, ELC
 - 🌱 I’m currently learning ...
