@@ -2,6 +2,8 @@
 
 **jahndev/jahndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://github-profile-trophy.vercel.app/?username=jahndev&column=3&margin-w=15&margin-h=15
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
