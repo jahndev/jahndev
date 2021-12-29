@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **jahndev/jahndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,5 +16,4 @@ Blockchain projects, Open source projects
 - 😄 Pronouns: ...
 he/him
 - ⚡ Fun fact: ...
-member of astronomical amateur team called Caronte, 3D enthusiast, interest by music, photography, philosophy, political, science.
--->
+Member of astronomical amateur team called Caronte, 3D enthusiast, interest by music, photography, philosophy, political, science.
