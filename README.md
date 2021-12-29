@@ -59,3 +59,4 @@ Member of astronomical amateur team called Caronte, 3D enthusiast, interest by m
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahndev&show_icons=true&locale=en&layout=compact" alt="jahndev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahndev&show_icons=true&locale=en" alt="jahndev" /></p>
+![](https://hit.yhype.me/github/profile?user_id=26445251)
