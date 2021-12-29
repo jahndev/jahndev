@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahn Arellano</h1>
 <h3 align="center">Hey, I'm a Software engineer, Passionate about technology and innovation, I enjoy programming and learning of new software tools. </h3>
+<p align=left>
 - 🔭 I’m currently working on ...
 Software engineer at Estee Lauder Company, ELC
 - 🌱 I’m currently learning ...
@@ -13,7 +14,7 @@ Blockchain projects, Open source projects
 he/him
 - ⚡ Fun fact: ...
 Member of astronomical amateur team called Caronte, 3D enthusiast, interest by music, photography, philosophy, political, science.
-
+</p>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
 </p>
