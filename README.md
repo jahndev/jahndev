@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-https://github-profile-trophy.vercel.app/?username=jahndev&column=3&margin-w=15&margin-h=15
-
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
