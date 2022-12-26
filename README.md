@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahndev" alt="jahndev" /></a> </p>
 
-- 🔭 I’m currently working on [Estee Lauder Companies](https://esteelauder.com)
+- 🔭 I’m collaborating with Dedicated Teams llc providing consultancy as a Java Backend Engineer in [Estee Lauder Companies](https://esteelauder.com)
 
 - 🌱 I’m currently learning **Kotlin, Java, Scala, DDD, TDD**
 
