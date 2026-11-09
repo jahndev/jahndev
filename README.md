@@ -45,6 +45,13 @@ I define and document cloud architectures on AWS, not just deploy to them:
 - **Council patterns**: several agents or models review the same design or diff independently, and a final pass reconciles their findings before I decide.
 - **Claude Code and Codex**: my daily tools for implementation, review, refactoring and debugging, with a human in the loop on every merge.
 
+## Activity
+
+Refreshed daily by a GitHub Action in this repository.
+
+<!-- activity:start -->
+<!-- activity:end -->
+
 ## Selected repositories
 
 - [clean-architecture-api-example](https://github.com/jahndev/clean-architecture-api-example): Clean Architecture REST API in Java.
