@@ -50,6 +50,9 @@ I define and document cloud architectures on AWS, not just deploy to them:
 Refreshed daily by a GitHub Action in this repository.
 
 <!-- activity:start -->
+- **719** contributions in the last 12 months
+- **196** contributions in the last 30 days, on **22** active days
+- Most of my current work is in private repositories, so it appears here as counts only.
 <!-- activity:end -->
 
 ## Selected repositories
