@@ -5,6 +5,8 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahndev" alt="Jahn C.A."/> </p>
 
+[![Certified Thinker](https://meatproxy.me/badge/c/ep3w8.svg)](https://meatproxy.me/c/ep3w8)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahndev" alt="jahndev" /></a> </p>
 
 - 🔭 I’m collaborating with Dedicated Teams llc providing consultancy as a Java Backend Engineer in [Estee Lauder Companies](https://esteelauder.com)
