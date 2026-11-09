@@ -12,7 +12,7 @@ I design and ship backend systems in Java, Kotlin and Python, and I build them w
 |---|---|
 | **Role** | AI-native Backend Engineer |
 | **Experience** | 16+ years of professional software engineering |
-| **Core languages** | Java, Kotlin, Python |
+| **Core languages** | Java (16+ years), Python (~5 years), Kotlin (~4 years) |
 | **Also** | Scala, TypeScript, SQL |
 | **Backend** | Spring Boot, JPA/Hibernate, gRPC, REST, OpenAPI |
 | **Cloud** | AWS (S3, IAM roles and policies, architecture definition), GCP, Docker, Kubernetes |
@@ -23,11 +23,10 @@ I design and ship backend systems in Java, Kotlin and Python, and I build them w
 
 ## Experience by language
 
-| Language | Years | |
-|---|---|---|
-| Java | 16+ | `████████████████` |
-| Python | ~5 | `█████░░░░░░░░░░░` |
-| Kotlin | ~4 | `████░░░░░░░░░░░░` |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
+  <img src="assets/experience-light.svg" width="760" alt="Years of professional experience by language: Java 16+ years, Python about 5 years, Kotlin about 4 years.">
+</picture>
 
 ## AWS and cloud architecture
 
