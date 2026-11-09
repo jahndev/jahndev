@@ -15,7 +15,7 @@ I design and ship backend systems in Java, Kotlin and Python, and I build them w
 | **Core languages** | Java, Kotlin, Python |
 | **Also** | Scala, TypeScript, SQL |
 | **Backend** | Spring Boot, JPA/Hibernate, gRPC, REST, OpenAPI |
-| **Cloud** | Docker, Kubernetes, AWS, GCP |
+| **Cloud** | AWS (S3, IAM roles and policies, architecture definition), GCP, Docker, Kubernetes |
 | **Practices** | Spec-Driven Development, TDD, DDD, Clean Architecture |
 | **AI tooling** | Claude Code, Codex, sub-agents, council patterns |
 | **Worked with** | OLX, Globant, The Estée Lauder Companies, Google, RingFree |
@@ -28,6 +28,15 @@ I design and ship backend systems in Java, Kotlin and Python, and I build them w
 | Java | 16+ | `████████████████` |
 | Python | ~5 | `█████░░░░░░░░░░░` |
 | Kotlin | ~4 | `████░░░░░░░░░░░░` |
+
+## AWS and cloud architecture
+
+I define and document cloud architectures on AWS, not just deploy to them:
+
+- **Architecture definition**: I turn requirements into service layouts, diagrams and written decisions that a team can build from.
+- **IAM**: roles, policies and trust relationships designed for least privilege, with separate roles per service and per environment.
+- **S3**: bucket design for storage and integration, including bucket policies, access control, encryption and lifecycle rules.
+- **Containers**: backend services packaged with Docker and run on Kubernetes, on AWS and GCP.
 
 ## How I build with AI agents
 
@@ -71,7 +80,8 @@ languages:
   - { name: Scala }
   - { name: TypeScript }
 backend: [Spring Boot, JPA/Hibernate, gRPC, REST, OpenAPI]
-cloud: [Docker, Kubernetes, AWS, GCP]
+cloud: [AWS, GCP, Docker, Kubernetes]
+aws: [cloud architecture definition, S3 buckets and bucket policies, IAM roles, IAM policies, least-privilege access design]
 practices: [Spec-Driven Development, Test-Driven Development, Domain-Driven Design, Clean Architecture]
 ai_engineering: [Claude Code, Codex, sub-agents, council patterns, agentic workflows]
 worked_with: [OLX, Globant, The Estée Lauder Companies, Google, RingFree]
